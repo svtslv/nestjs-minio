@@ -23,6 +23,12 @@ npm install @svtslv/minio minio
 npm install -D @types/minio
 ```
 
+You can also use the interactive CLI
+
+```sh
+npx nestjs-modules
+```
+
 ## Examples
 
 ```bash
