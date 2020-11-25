@@ -16,7 +16,7 @@ Integrates Minio with Nest
 ## Installation
 
 ```bash
-npm install @svtslv/minio minio
+npm install @svtslv/nestjs-minio minio
 ```
 
 ```bash
