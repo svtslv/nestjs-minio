@@ -16,11 +16,19 @@ Integrates Minio with Nest
 ## Installation
 
 ```bash
-npm install @svtslv/minio minio
+npm install @svtslv/nestjs-minio minio
+```
+or
+```
+yarn add @svtslv/nestjs-minio minio
 ```
 
 ```bash
 npm install -D @types/minio
+```
+or
+```
+yarn add -D @types/minio
 ```
 
 You can also use the interactive CLI
